@@ -21,22 +21,18 @@ repository               : "bjtang-001/academicpages"
 author:
   avatar           : "Image_20231202053757.png"
   name             : "Bijun Tang"
-  pronouns         : "she/her"
-  bio              : "Presidential Postdoctoral Fellow at NTU. I work on intelligent materials development at the intersection of AI and materials science."
+  bio              : "Presidential Postdoctoral Fellow at NTU | Forbes 30 Under 30 Asia | AI2050 Early Career Fellow"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : 
-  email            : "bjtang@ntu.edu.sg"
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "https://orcid.org/0000-0003-2899-9311"
+  googlescholar    : "https://scholar.google.com/citations?user=qwXbP28AAAAJ&hl=zh-CN"
+  orcid            : "https://orcid.org/0000-0002-9367-1836"
   pubmed           : 
-  researchgate     : 
+  researchgate     : "https://www.researchgate.net/profile/Bijun-Tang?ev=hdr_xprf"
   scopus           : 
 
-  # Repositories and software development
-  github           : "bjtang-001"
 
   # Social media
   linkedin         : "bijun-tang-674546105"

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bijun Tang / Personal Website"
+title                    : "Bijun Tang's Homepage"
 title_separator          : "-"
 name                     : &name "Bijun Tang"
 description              : &description "AI for Materials Science | 2D Materials | Presidential Postdoctoral Fellow at NTU | Forbes 30 Under 30 Asia"

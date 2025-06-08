@@ -18,9 +18,9 @@ I have authored over **30 peer-reviewed publications** in top-tier journals, inc
 ### 🔬 Research Interests
 My research lies at the intersection of **materials science** and **artificial intelligence**. I am particularly interested in::
 
-**AI-guided synthesis and discovery** of novel materials, including 2D materials, high-entropy alloys (HEAs), and carbon-based nanomaterials
-**Autonomous and explainable AI systems** for accelerating materials development with minimal human intervention
-**Data-driven strategies** for phase engineering, property optimization, and multi-objective materials design
+- **AI-guided synthesis and discovery** of novel materials, including 2D materials, high-entropy alloys (HEAs), and carbon-based nanomaterials
+- **Autonomous and explainable AI systems** for accelerating materials development with minimal human intervention
+- **Data-driven strategies** for phase engineering, property optimization, and multi-objective materials design
 
 I aim to build generalizable, intelligent platforms that transform how materials are discovered, synthesized, and understood.
 

@@ -9,9 +9,6 @@ author_profile: true
 
 #### **2025**
 - *Li, X., Xie, Z., Roy, S., … & Tang, B.* (corresponding author), Ajayan, P., Tang, K. *Amorphous high-entropy phosphide nanosheets with multi-atom catalytic sites for efficient oxygen evolution.* **Advanced Materials**, 2025.
-- *Guo, H., Lu, Y., Lei, Z., … & Tang, B.* (corresponding author), Liu, Z., Wang, L. *Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots.* **Nature Communications**, 2024.
-- *Liu, J., Sun, R., Bao, X., … & Tang, B.* (corresponding author), Liu, Z. *Machine learning driven atom-thin materials for fragrance sensing.* **Small**, 2024.
-- *Yang, J., Ng, J., Zhu, C., … & Tang, B.* (corresponding author). *Chemical vapor deposition of large-area ultrathin Cr3Te4 nanosheets with robust ferromagnetism.* **2D Materials**, 2024.
 - *Abdelaziem, A., Li, Z., Omar, G., … & Tang, B.* *Terahertz spin-to-charge conversion in strontium iridate-based magnetic heterostructures.* **Advanced Materials**, 2025.
 - *Ni, Q., Zhang, M., Tang, B., …* *Rapid synthesis of carbon quantum dot-integrated MOF nanosheets via electron beam irradiation.* **Advanced Powder Materials**, 2025.
 - *Yang, J., Sun, R., Bao, X., … & Tang, B.* *Enhancing selectivity of two-dimensional materials-based gas sensors.* **Advanced Functional Materials**, 2025.
@@ -19,8 +16,9 @@ author_profile: true
 - *Sun, R., Tang, B.*, & Liu, Z. *Explainable machine learning-powered layer group prediction of 2D materials with automated descriptor selection.* **Materials Today Chemistry**, 2025.
 
 #### **2024**
-- *Yang, J., Zhu, C., Deng, Y., Tang, B.* (corresponding author), & Liu, Z. *Magnetism of two-dimensional chromium tellurides.* **iScience**, 2023.
 - *Guo, H., Lu, Y., Lei, Z., … & Tang, B.* (corresponding author), Liu, Z., Wang, L. *Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots.* **Nature Communications**, 2024.
+- *Liu, J., Sun, R., Bao, X., … & Tang, B.* (corresponding author), Liu, Z. *Machine learning driven atom-thin materials for fragrance sensing.* **Small**, 2024.
+- *Yang, J., Ng, J., Zhu, C., … & Tang, B.* (corresponding author). *Chemical vapor deposition of large-area ultrathin Cr3Te4 nanosheets with robust ferromagnetism.* **2D Materials**, 2024.
 - *Liu, W., Tang, B., Wang, Z., …* *Radiation-synthesized MOFs with ligand-induced Lewis pairs for CO₂ electroreduction.* **Small**, 2024.
 - *Fu, S., Tang, B., Wang, Z., …* *Hydrophobic carbon quantum dots for CO₂ reduction to CH₄.* **Chemical Engineering Journal**, 2024.
 - *Song, P., Fang, X., Jiang, W., … & Tang, B.* *BiOCl nanosheets coupled with CQDs for enhanced photocatalysis.* **Transactions of Tianjin University**, 2024.
@@ -59,6 +57,3 @@ author_profile: true
 
 #### **2017**
 - *Yu, P., Fu, W., Zeng, Q., … & Tang, B.* *WTe₂ nanosheets for flexible supercapacitors.* **Advanced Materials**, 2017.
-
-#### **2016**
-- *Liu, S., Li, H., Tang, B., Bi, S., & Li, L.* *Scaling law and microstructure of alginate hydrogel.* **Carbohydrate Polymers**, 2016.

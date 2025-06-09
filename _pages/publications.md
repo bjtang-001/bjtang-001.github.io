@@ -12,12 +12,12 @@ author_profile: true
 - *Abdelaziem, A., Li, Z., Omar, G., … & Tang, B.* *Terahertz spin-to-charge conversion in strontium iridate-based magnetic heterostructures.* **Advanced Materials**, 2025.
 - *Ni, Q., Zhang, M., Tang, B., …* *Rapid synthesis of carbon quantum dot-integrated MOF nanosheets via electron beam irradiation.* **Advanced Powder Materials**, 2025.
 - *Yang, J., Sun, R., Bao, X., … & Tang, B.* *Enhancing selectivity of two-dimensional materials-based gas sensors.* **Advanced Functional Materials**, 2025.
-- *Fu, H., Li, K., Chen, Q., Tang, B., …* *Accelerated design of Fenton-like catalysts by active learning with genetic programming.* **Angewandte Chemie**, 2025.
-- *Sun, R., Tang, B.*, & Liu, Z. *Explainable machine learning-powered layer group prediction of 2D materials with automated descriptor selection.* **Materials Today Chemistry**, 2025.
+- *Fu, H., Li, K., Chen, Q., Tang, B., …* *Accelerated design of Fenton-like catalysts by active learning with genetic programming.* **Angewandte Chemie**, 2025. <span style="color:red">[AI for Materials Science]</span>
+- *Sun, R., Tang, B.*, & Liu, Z. *Explainable machine learning-powered layer group prediction of 2D materials with automated descriptor selection.* **Materials Today Chemistry**, 2025. <span style="color:red">[AI for Materials Science]</span>
 
 #### **2024**
-- *Guo, H., Lu, Y., Lei, Z., … & Tang, B.* (corresponding author), Liu, Z., Wang, L. *Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots.* **Nature Communications**, 2024.
-- *Liu, J., Sun, R., Bao, X., … & Tang, B.* (corresponding author), Liu, Z. *Machine learning driven atom-thin materials for fragrance sensing.* **Small**, 2024.
+- *Guo, H., Lu, Y., Lei, Z., … & Tang, B.* (corresponding author), Liu, Z., Wang, L. *Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots.* **Nature Communications**, 2024. <span style="color:red">[AI for Materials Science]</span>
+- *Liu, J., Sun, R., Bao, X., … & Tang, B.* (corresponding author), Liu, Z. *Machine learning driven atom-thin materials for fragrance sensing.* **Small**, 2024. <span style="color:red">[AI for Materials Science]</span>
 - *Yang, J., Ng, J., Zhu, C., … & Tang, B.* (corresponding author). *Chemical vapor deposition of large-area ultrathin Cr3Te4 nanosheets with robust ferromagnetism.* **2D Materials**, 2024.
 - *Liu, W., Tang, B., Wang, Z., …* *Radiation-synthesized MOFs with ligand-induced Lewis pairs for CO₂ electroreduction.* **Small**, 2024.
 - *Fu, S., Tang, B., Wang, Z., …* *Hydrophobic carbon quantum dots for CO₂ reduction to CH₄.* **Chemical Engineering Journal**, 2024.
@@ -39,13 +39,13 @@ author_profile: true
 
 #### **2021**
 - *Tang, B., Che, B., Xu, M., … & Liu, Z.* *2D twisted TMD bilayers.* **Small Structures**, 2021.
-- + *Xu, M., Tang, B.*, Lu, Y., … & Liu, Z. *ML-guided synthesis of WTe₂ with geometric control.* **JACS**, 2021.
+- *Xu, M., Tang, B.*, Lu, Y., … & Liu, Z. *ML-guided synthesis of WTe₂ with geometric control.* **JACS**, 2021. <span style="color:red">[AI for Materials Science]</span>
 - *Di, J., Lin, B., Tang, B., … & Liu, Z.* *Cocatalysts onto photocatalysts for CO₂ reduction.* **Small Structures**, 2021.
 - *Guo, Y., Kang, L., Song, P., … & Tang, B.* *MoO₃–MoS₂ vertical heterostructures.* **2D Materials**, 2021.
 
 #### **2020**
-- *Tang, B., Lu, Y., Zhou, J., … & Liu, Z.* *ML-guided synthesis of advanced inorganic materials.* **Materials Today**, 2020.
-- + *Han, Y., Tang, B.*, Wang, L., … & Wu, M. *ML-driven synthesis of high-QY carbon dots.* **ACS Nano**, 2020.
+- *Tang, B., Lu, Y., Zhou, J., … & Liu, Z.* *ML-guided synthesis of advanced inorganic materials.* **Materials Today**, 2020. <span style="color:red">[AI for Materials Science]</span>
+- *Han, Y., Tang, B.*, Wang, L., … & Wu, M. *ML-driven synthesis of high-QY carbon dots.* **ACS Nano**, 2020. <span style="color:red">[AI for Materials Science]</span>
 
 #### **2019**
 - *Tang, B., Zhou, J., Sun, P., … & Liu, Z.* *Monolayer ternary telluride synthesis.* **Advanced Materials**, 2019.
@@ -53,7 +53,7 @@ author_profile: true
 - *Zhou, J., Kong, X., Sekhar, M. C., … & Tang, B.* *Monolayer PtSe₂ single crystal.* **ACS Nano**, 2019.
 
 #### **2018**
-- + *Zhou, J., Tang, B.*, Lin, J., … & Liu, Z. *Morphology engineering in MoS₂–WS₂ heterostructures.* **Advanced Functional Materials**, 2018.
+- *Zhou, J., Tang, B.*, Lin, J., … & Liu, Z. *Morphology engineering in MoS₂–WS₂ heterostructures.* **Advanced Functional Materials**, 2018.
 
 #### **2017**
 - *Yu, P., Fu, W., Zeng, Q., … & Tang, B.* *WTe₂ nanosheets for flexible supercapacitors.* **Advanced Materials**, 2017.

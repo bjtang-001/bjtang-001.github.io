@@ -11,11 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/     
+  - title: "News"
+    url: /News/     
     
-  - title: "Research Projects"
-    url: /Research Project/
+  - title: "Honours and Awards"
+    url: /Honours and Awards/
     
   # - title: "CV"
   #   url: /cv-json/

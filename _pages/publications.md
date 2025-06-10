@@ -11,18 +11,18 @@ author_profile: true
 - Li, X., Xie, Z., Roy, S., … & <u>Tang, B. (corresponding author)</u>, Ajayan, P., Tang, K. *Amorphous high-entropy phosphide nanosheets with multi-atom catalytic sites for efficient oxygen evolution.* **Advanced Materials**, 2025.
 - Sun, R., Tang, B., & Liu, Z. *Explainable machine learning-powered layer group prediction of 2D materials with automated descriptor selection.* **Materials Today Chemistry**, 2025. <span style="color:red">[AI for Materials Science]</span>
 - Abdelaziem, A., Li, Z., Omar, G., Huang, L., Agarwal, P., Wu, Y., Yan, H., Beng, L., Hui, H., El-Kohlu, A., Tang, B., et al.  *Terahertz spin-to-charge conversion in strontium iridate-based magnetic heterostructures.* **Advanced Materials**, 2025.
-- Ni, Q., Zhang, M., Tang, B., et al. *Rapid synthesis of carbon quantum dot-integrated MOF nanosheets via electron beam irradiation.* **Advanced Powder Materials**, 2025.
+- Ni, Q., Zhang, M., Tang, B., et al. *Rapid synthesis of carbon quantum dot-integrated metal–organic framework nanosheets via electron beam irradiation for selective 5-hydroxymethylfurfural electrooxidation.* **Advanced Powder Materials**, 2025.
 - Yang, J., Sun, R., Bao, X., Liu, J., Ng, J., Tang, B., et al. *Enhancing selectivity of two-dimensional materials-based gas sensors.* **Advanced Functional Materials**, 2025.
-- Fu, H., Li, K., Chen, Q., Tang, B., et al. *Accelerated design of Fenton-like catalysts by active learning with genetic programming.* **Angewandte Chemie**, 2025. <span style="color:red">[AI for Materials Science]</span>
+- Fu, H., Li, K., Chen, Q., Tang, B., et al. *Accelerated design and synthesis of Fenton-like catalysts by active learning with genetic programming.* **Angewandte Chemie**, 2025. <span style="color:red">[AI for Materials Science]</span>
 
 #### **2024**
 - Guo, H., Lu, Y., Lei, Z., … & <u>Tang, B. (corresponding author)</u>, Liu, Z., Wang, L. *Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots.* **Nature Communications**, 2024. <span style="color:red">[AI for Materials Science]</span>
 - Liu, J., Sun, R., Bao, X., … & <u>Tang, B. (corresponding author)</u>, Liu, Z. *Machine learning driven atom-thin materials for fragrance sensing.* **Small**, 2024. <span style="color:red">[AI for Materials Science]</span>
 - Yang, J., Ng, J., Zhu, C., … & <u>Tang, B. (corresponding author)</u>. *Chemical vapor deposition of large-area ultrathin Cr3Te4 nanosheets with robust ferromagnetism.* **2D Materials**, 2024.
-- Liu, W., Tang, B., Wang, Z., et al. *Radiation-synthesized MOFs with ligand-induced Lewis pairs for CO₂ electroreduction.* **Small**, 2024.
-- Fu, S., Tang, B., Wang, Z., et al. *Hydrophobic carbon quantum dots for CO₂ reduction to CH₄.* **Chemical Engineering Journal**, 2024.
+- Liu, W., Tang, B., Wang, Z., et al. *Radiation-synthesized metal-organic frameworks with ligand-induced Lewis pairs for selective CO2 electroreduction.* **Small**, 2024.
+- Fu, S., Tang, B., Wang, Z., et al. *HHydrophobic carbon quantum dots with Lewis-Basic nitrogen sites for electrocatalyst CO2 reduction to CH4.* **Chemical Engineering Journal**, 2024.
 - Song, P., Fang, X., Jiang, W., Cao, Y., Liu, D., Wei, S., Du, J., Sun, L., Zhao, L., Liu, S., Zhou, Y., Di, J., Lv, D., Tang, B., et al. *BiOCl nanosheets coupled with CQDs for enhanced photocatalysis.* **Transactions of Tianjin University**, 2024.
--Yang, J., Zheng, M., Wu, Y., Goualher, F., Di, J., Salim, T., Deng, Y., Zhu, C., Guo, S., Tang, B., et al. *Intrinsic catalytic activity dominance in 2D Cr chalcogenides.* **Applied Catalysis B: Environmental**, 2024.
+-Yang, J., Zheng, M., Wu, Y., Goualher, F., Di, J., Salim, T., Deng, Y., Zhu, C., Guo, S., Tang, B., et al. *Unraveling the dominance of intrinsic catalytic activities over electrical properties in electrocatalytic performance of two-dimensional chromium chalcogenide nanosheets.* **Applied Catalysis B: Environmental**, 2024.
 
 #### **2023**
 - Yang, J., Zhu, C., Deng, Y., <u>Tang, B. (corresponding author)</u>, & Liu, Z. *Magnetism of two-dimensional chromium tellurides.* **iScience**, 2023.
@@ -42,21 +42,21 @@ author_profile: true
 
 #### **2021**
 - Tang, B., Che, B., Xu, M., et al. *Recent advances in synthesis and study of 2D twisted transition metal dichalcogenide bilayers.* **Small Structures**, 2021.
-- Xu, M., Tang, B., Lu, Y., et al. *Machine learning driven synthesis of few-layered WTe2 with geometrical control.* **JACS**, 2021. <span style="color:red">[AI for Materials Science]</span>
+- Xu, M.^, Tang, B.^, Lu, Y., et al. *Machine learning driven synthesis of few-layered WTe2 with geometrical control.* **JACS**, 2021. <span style="color:red">[AI for Materials Science]</span>
 - Di, J., Lin, B., Tang, B., et al. *Engineering cocatalysts onto low‐dimensional photocatalysts for CO2 reduction.* **Small Structures**, 2021.
 - Guo, Y., Kang, L., Song, P., Zeng, Q., Tang, B., et al. *MoO3-MoS2 vertical heterostructures synthesized via one-step CVD process for optoelectronics.* **2D Materials**, 2021.
 
 #### **2020**
 - Tang, B., Lu, Y., Zhou, J., et al. *Machine learning-guided synthesis of advanced inorganic materials.* **Materials Today**, 2020. <span style="color:red">[AI for Materials Science]</span>
-- Han, Y., Tang, B., Wang, L., et al. *Machine-learning-driven synthesis of carbon dots with enhanced quantum yields.* **ACS Nano**, 2020. <span style="color:red">[AI for Materials Science]</span>
+- Han, Y.^, Tang, B.^, Wang, L., et al. *Machine-learning-driven synthesis of carbon dots with enhanced quantum yields.* **ACS Nano**, 2020. <span style="color:red">[AI for Materials Science]</span>
 
 #### **2019**
 - Tang, B., Zhou, J., Sun, P., et al. *Phase-controlled synthesis of monolayer ternary telluride with a random local displacement of tellurium atoms.* **Advanced Materials**, 2019.
-- Song, P., Cui, J., Di, J., … Tang, B. *Carbon microtube aerogels from kapok fibers.* **ACS Nano**, 2019.
-- Zhou, J., Kong, X., Sekhar, M. C., … Tang, B. *Monolayer PtSe₂ single crystal.* **ACS Nano**, 2019.
+- Song, P., Cui, J., Di, J., Liu, D., Xu, M., Tang, B., et al. *Carbon microtube aerogel derived from kapok fiber: an efficient and recyclable sorbent for oils and organic solvents.* **ACS Nano**, 2019.
+- Zhou, J., Kong, X., Sekhar, M. C., Lin, J., Le Goualher, F., Xu, R., Wang, X., Chen, Y., Zhou, Y., Zhu, C., Lu, W., Liu, F., Tang, B., et al. *Epitaxial synthesis of monolayer PtSe2 single crystal on MoSe2 with strong interlayer coupling.* **ACS Nano**, 2019.
 
 #### **2018**
-- Zhou, J., Tang, B., Lin, J., … & Liu, Z. *Morphology engineering in MoS₂–WS₂ heterostructures.* **Advanced Functional Materials**, 2018.
+- Zhou, J.^, Tang, B.^, Lin, J., et al. *Morphology engineering in MoS₂–WS₂ heterostructures.* **Advanced Functional Materials**, 2018.
 
 #### **2017**
-- Yu, P., Fu, W., Zeng, Q., … Tang, B. *WTe₂ nanosheets for flexible supercapacitors.* **Advanced Materials**, 2017.
+- Yu, P., Fu, W., Zeng, Q., Lin, J., Yan, C., Lai, Z., Tang, B., et al *Controllable synthesis of atomically thin type‐II Weyl semimetal WTe2 nanosheets: an advanced electrode material for all-solid-state flexible supercapacitors.* **Advanced Materials**, 2017.

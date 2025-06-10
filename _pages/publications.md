@@ -33,31 +33,31 @@ author_profile: true
 - Wu, Y., Yang, J., Zheng, M., Hu, D., Salim, T., Tang, B., et al *Two-dimensional cobalt ferrite through direct chemical vapor deposition for efficient oxygen evolution reaction.* **Chinese Journal of Catalysis**, 2023
 
 #### **2022**
-- Tang, B., Wang, X., Han, M., et al *Phase engineering of Cr₅Te₈ with colossal anomalous Hall effect.* **Nature Electronics**, 2022.
-- Tang, B., Hu, D., Zhao, X., et al. *Recent developments in chemical vapor deposition of 2D magnetic transition metal chalcogenides.* **ACS Applied Electronic Materials**, 2022.
+- <u>Tang, B.</u>, Wang, X., Han, M., et al *Phase engineering of Cr₅Te₈ with colossal anomalous Hall effect.* **Nature Electronics**, 2022.
+- <u>Tang, B.</u>, Hu, D., Zhao, X., et al. *Recent developments in chemical vapor deposition of 2D magnetic transition metal chalcogenides.* **ACS Applied Electronic Materials**, 2022.
 - Zhou, J., Zhang, W., Lin, Y. C., Cao, J., Zhou, Y., Jiang, W., Du, H., Tang, B., et al. *Heterodimensional superlattice with in-plane anomalous Hall effect.* **Nature**, 2022.
 - Guo, S., Fu, J., Zhang, P., Zhu, C., Yao, H., Xu, M., An, B., Wang, X., Tang, B., et al. *Direct growth of single-metal-atom chains.* **Nature Synthesis**, 2022.
 - Deng, Y., Zhu, C., Wang, Y., Wang, X., Zhao, X., Wu, Y., Tang, B., et al. *Lithography-free, high-density MoTe2 nanoribbon arrays.* **Materials Today**, 2022 
 
 
 #### **2021**
-- Tang, B., Che, B., Xu, M., et al. *Recent advances in synthesis and study of 2D twisted transition metal dichalcogenide bilayers.* **Small Structures**, 2021.
-- Xu, M.^, Tang, B.^, Lu, Y., et al. *Machine learning driven synthesis of few-layered WTe2 with geometrical control.* **JACS**, 2021. <span style="color:red">[AI for Materials Science]</span>
+- <u>Tang, B.</u>, Che, B., Xu, M., et al. *Recent advances in synthesis and study of 2D twisted transition metal dichalcogenide bilayers.* **Small Structures**, 2021.
+- Xu, M.^, <u>Tang, B.^</u>, Lu, Y., et al. *Machine learning driven synthesis of few-layered WTe2 with geometrical control.* **JACS**, 2021. <span style="color:red">[AI for Materials Science]</span>
 - Di, J., Lin, B., Tang, B., et al. *Engineering cocatalysts onto low‐dimensional photocatalysts for CO2 reduction.* **Small Structures**, 2021.
 - Guo, Y., Kang, L., Song, P., Zeng, Q., Tang, B., et al. *MoO3-MoS2 vertical heterostructures synthesized via one-step CVD process for optoelectronics.* **2D Materials**, 2021.
 
 #### **2020**
 - Tang, B., Lu, Y., Zhou, J., et al. *Machine learning-guided synthesis of advanced inorganic materials.* **Materials Today**, 2020. <span style="color:red">[AI for Materials Science]</span>
-- Han, Y.^, Tang, B.^, Wang, L., et al. *Machine-learning-driven synthesis of carbon dots with enhanced quantum yields.* **ACS Nano**, 2020. <span style="color:red">[AI for Materials Science]</span>
+- Han, Y.^, <u>Tang, B.^</u>, Wang, L., et al. *Machine-learning-driven synthesis of carbon dots with enhanced quantum yields.* **ACS Nano**, 2020. <span style="color:red">[AI for Materials Science]</span>
 
 #### **2019**
-- Tang, B., Zhou, J., Sun, P., et al. *Phase-controlled synthesis of monolayer ternary telluride with a random local displacement of tellurium atoms.* **Advanced Materials**, 2019.
+- <u>Tang, B.</u>, Zhou, J., Sun, P., et al. *Phase-controlled synthesis of monolayer ternary telluride with a random local displacement of tellurium atoms.* **Advanced Materials**, 2019.
 - Song, P., Cui, J., Di, J., Liu, D., Xu, M., Tang, B., et al. *Carbon microtube aerogel derived from kapok fiber: an efficient and recyclable sorbent for oils and organic solvents.* **ACS Nano**, 2019.
 - Zhou, J., Kong, X., Sekhar, M. C., Lin, J., Le Goualher, F., Xu, R., Wang, X., Chen, Y., Zhou, Y., Zhu, C., Lu, W., Liu, F., Tang, B., et al. *Epitaxial synthesis of monolayer PtSe2 single crystal on MoSe2 with strong interlayer coupling.* **ACS Nano**, 2019.
 - Song, P., Di, J., Kang, L., Xu, M., Tang, B., et al. *Enhancing the cycling stability of Na-ion batteries by bonding MoS2 on assembled carbon-based materials.* **Nano Materials Science**, 2019
 
 #### **2018**
-- Zhou, J.^, Tang, B.^, Lin, J., et al. *Morphology engineering in MoS₂–WS₂ heterostructures.* **Advanced Functional Materials**, 2018.
+- Zhou, J.^, <u>Tang, B.^</u>, Lin, J., et al. *Morphology engineering in MoS₂–WS₂ heterostructures.* **Advanced Functional Materials**, 2018.
 
 #### **2017**
 - Yu, P., Fu, W., Zeng, Q., Lin, J., Yan, C., Lai, Z., Tang, B., et al *Controllable synthesis of atomically thin type‐II Weyl semimetal WTe2 nanosheets: an advanced electrode material for all-solid-state flexible supercapacitors.* **Advanced Materials**, 2017.

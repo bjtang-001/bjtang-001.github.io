@@ -54,6 +54,7 @@ author_profile: true
 - Tang, B., Zhou, J., Sun, P., et al. *Phase-controlled synthesis of monolayer ternary telluride with a random local displacement of tellurium atoms.* **Advanced Materials**, 2019.
 - Song, P., Cui, J., Di, J., Liu, D., Xu, M., Tang, B., et al. *Carbon microtube aerogel derived from kapok fiber: an efficient and recyclable sorbent for oils and organic solvents.* **ACS Nano**, 2019.
 - Zhou, J., Kong, X., Sekhar, M. C., Lin, J., Le Goualher, F., Xu, R., Wang, X., Chen, Y., Zhou, Y., Zhu, C., Lu, W., Liu, F., Tang, B., et al. *Epitaxial synthesis of monolayer PtSe2 single crystal on MoSe2 with strong interlayer coupling.* **ACS Nano**, 2019.
+- Song, P., Di, J., Kang, L., Xu, M., Tang, B., et al. *Enhancing the cycling stability of Na-ion batteries by bonding MoS2 on assembled carbon-based materials.* **Nano Materials Science**, 2019
 
 #### **2018**
 - Zhou, J.^, Tang, B.^, Lin, J., et al. *Morphology engineering in MoS₂–WS₂ heterostructures.* **Advanced Functional Materials**, 2018.

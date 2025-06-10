@@ -20,7 +20,7 @@ author_profile: true
 - Liu, J., Sun, R., Bao, X., … & <u>Tang, B. (corresponding author)</u>, Liu, Z. *Machine learning driven atom-thin materials for fragrance sensing.* **Small**, 2024. <span style="color:red">[AI for Materials Science]</span>
 - Yang, J., Ng, J., Zhu, C., … & <u>Tang, B. (corresponding author)</u>. *Chemical vapor deposition of large-area ultrathin Cr3Te4 nanosheets with robust ferromagnetism.* **2D Materials**, 2024.
 - Liu, W., Tang, B., Wang, Z., et al. *Radiation-synthesized metal-organic frameworks with ligand-induced Lewis pairs for selective CO2 electroreduction.* **Small**, 2024.
-- Fu, S., Tang, B., Wang, Z., et al. *HHydrophobic carbon quantum dots with Lewis-Basic nitrogen sites for electrocatalyst CO2 reduction to CH4.* **Chemical Engineering Journal**, 2024.
+- Fu, S., Tang, B., Wang, Z., et al. *Hydrophobic carbon quantum dots with Lewis-Basic nitrogen sites for electrocatalyst CO2 reduction to CH4.* **Chemical Engineering Journal**, 2024.
 - Song, P., Fang, X., Jiang, W., Cao, Y., Liu, D., Wei, S., Du, J., Sun, L., Zhao, L., Liu, S., Zhou, Y., Di, J., Lv, D., Tang, B., et al. *BiOCl nanosheets coupled with CQDs for enhanced photocatalysis.* **Transactions of Tianjin University**, 2024.
 -Yang, J., Zheng, M., Wu, Y., Goualher, F., Di, J., Salim, T., Deng, Y., Zhu, C., Guo, S., Tang, B., et al. *Unraveling the dominance of intrinsic catalytic activities over electrical properties in electrocatalytic performance of two-dimensional chromium chalcogenide nanosheets.* **Applied Catalysis B: Environmental**, 2024.
 

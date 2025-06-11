@@ -33,14 +33,16 @@ At the heart of it all, I'm working toward a future where discovering and making
 
 ## ✨ Recent Highlights
 
-- 🏅 **AI2050 Early Career Fellow**, Schmidt Sciences (2024) 
-  *Only Asia-based recipient among 15 global fellows, first from NTU*(https://ai2050.schmidtsciences.org/fellow/bijun-tang/) 
+- 🥇 **AI2050 Early Career Fellow**, Schmidt Sciences (2024)  
+  *Only Asia-based recipient among 15 global fellows, first from NTU*  
+  [AI2050 Fellowship profile →](https://ai2050.schmidtsciences.org/fellow/bijun-tang/)
 
 - 🎓 **NTU Emerging Scientist Award** (2024)  
   *Recognized as one of three female awardees at GLOW 2024*
 
-- 📣 **Forbes 30 Under 30 Asia**, Healthcare & Science (2023)  
-  *For pioneering the use of machine learning in materials discovery*(https://www.forbes.com/profile/tang-bijun/)
+- 🧪 **Forbes 30 Under 30 Asia**, Healthcare & Science (2023)  
+  *For pioneering the use of machine learning in materials discovery*  
+  [Forbes profile →](https://www.forbes.com/profile/tang-bijun/)
 
 - 📄 **Recent publications in leading journals**:  
   - *Advanced Materials* (2025):  

@@ -13,8 +13,7 @@ author_profile: true
 - **NTU Emerging Scientist Award**, Nanyang Technological University
 
 ### 2023
-- **Forbes 30 Under 30 Asia**, Healthcare & Science Category
-  *For pioneering research applying machine learning to materials discovery and development.*
+- **Forbes 30 Under 30 Asia**, Healthcare & Science Category  *For pioneering research applying machine learning to materials discovery and development.*
 
 ### 2022
 - **NTU Presidential Postdoctoral Fellowship**, Nanyang Technological University

@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-## 🗞 Recent Highlights
+## 📣 News & Updates
 
 ### 📅 March 2025
 **Publication in *Advanced Materials***  

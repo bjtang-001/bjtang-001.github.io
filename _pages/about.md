@@ -1,39 +1,27 @@
 ---
-permalink: /
-title: "About me"
+layout: single
+title: "About Me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Welcome! I’m **Dr. Bijun Tang**, a Presidential Postdoctoral Fellow at the School of Materials Science and Engineering, **Nanyang Technological University (NTU), Singapore**, and a former visiting scientist at **Rice University**. I received my **BEng (First Class Honours)** and **PhD** from NTU in 2017 and 2021.
+## 👋 About Me
 
-My research focuses on the **synthesis and engineering of novel 2D materials**, and the development of **AI-driven platforms** for intelligent materials discovery and optimization. I work at the intersection of **materials science** and **artificial intelligence**, aiming to accelerate the design and synthesis of advanced materials through data and automation.
+Hi! I’m **Dr. Bijun Tang**, a **Presidential Postdoctoral Fellow** at the **School of Materials Science and Engineering**, **Nanyang Technological University (NTU), Singapore**. I also spent time as a visiting scientist at **Rice University**, USA. I earned both my **BEng (First Class Honours)** and **PhD** from NTU in 2017 and 2021.
 
-I have authored over **30 peer-reviewed publications** in top-tier journals, including *Nature*, *Nature Materials*, *Nature Electronics*, *Nature Communications*, *Advanced Materials*, and *Materials Today*, with an **H-index of 19** and **1800+ citations**. I’ve also led and co-led several large-scale research projects with total funding exceeding **S$5 million**.
+My work sits at the exciting intersection of **materials science** and **artificial intelligence (AI)**. I’m passionate about developing **AI-driven tools and platforms** to make the discovery and synthesis of new materials faster, smarter, and more efficient. While I focus a lot on **2D materials**, my research also spans a range of low-dimensional and high-performance materials such as 1D nanoribbons and 0D nanoparticles.
 
----
-
-### 🔬 Research Interests
-My research lies at the intersection of **materials science** and **artificial intelligence**. I am particularly interested in::
-
-- **AI-guided synthesis and discovery** of novel materials, including 2D materials, high-entropy alloys (HEAs), and carbon-based nanomaterials
-- **Autonomous and explainable AI systems** for accelerating materials development with minimal human intervention
-- **Data-driven strategies** for phase engineering, property optimization, and multi-objective materials design
-
-I aim to build generalizable, intelligent platforms that transform how materials are discovered, synthesized, and understood.
+I’ve published over **30 peer-reviewed articles** in leading journals like *Nature*, *Nature Materials*, *Nature Electronics*, *Nature Communications*, *Advanced Materials*, and *Materials Today*. My work has been cited more than **1,800 times**, and I currently have an **H-index of 19**. I've led and co-led several major projects in **AI for Materials Science (AI4MS)**, with total research funding exceeding **S$5 million**.
 
 ---
 
-### ✨ Recent Highlights
+## 🔬 Research Interests
 
-- 🏅 **AI2050 Early Career Fellowship** by Schmidt Sciences (2024) – the only Asia-based recipient
-- 🏆 **NTU Emerging Scientist Award** (2024)
-- 🧪 **New publications**:
-  - **Nature Communications**: *Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots*  
-  - **Advanced Materials**: *Amorphous high-entropy phosphide nanosheets with multi-atom catalytic sites for efficient oxygen evolution*  
-  - **Materials Today Chemistry**: *Explainable machine learning for 2D material layer group prediction with automated descriptor selection*
+My research blends deep materials knowledge with cutting-edge AI techniques. I'm especially interested in:
 
+- Creating and studying **low-dimensional materials** (like 2D sheets, 1D ribbons, and 0D dots) for electronics and catalysis  
+- Using **AI to guide the design and synthesis** of new materials, from **2D materials** to **3D alloys**  
+- Applying **data-driven methods** for phase control, property optimization, and multi-objective material design  
+- Building **autonomous and explainable AI systems** to speed up materials development with less trial and error
 
-
+At the heart of it all, I'm working toward a future where discovering and making new materials becomes faster, more intelligent, and more insightful.

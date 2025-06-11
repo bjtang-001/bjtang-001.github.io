@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-## 👋 About Me
 
 Hi! I’m **Dr. Bijun Tang**, a **Presidential Postdoctoral Fellow** at the **School of Materials Science and Engineering**, **Nanyang Technological University (NTU), Singapore**. I also spent time as a visiting scientist at **Rice University**, USA. I earned both my **BEng (First Class Honours)** and **PhD** from NTU in 2017 and 2021.
 

@@ -7,7 +7,7 @@ author_profile: true
 
 ### 📝 Publications
 
-#### **2025**
+### **2025**
 - Li, X., Xie, Z., Roy, S., … & <u>Tang, B. (corresponding author)</u>, Ajayan, P., Tang, K. *Amorphous high-entropy phosphide nanosheets with multi-atom catalytic sites for efficient oxygen evolution.* **Advanced Materials**, 2025.
 - Sun, R., Tang, B., & Liu, Z. *Explainable machine learning-powered layer group prediction of 2D materials with automated descriptor selection.* **Materials Today Chemistry**, 2025. <span style="color:red">[AI for Materials Science]</span>
 - Abdelaziem, A., Li, Z., Omar, G., Huang, L., Agarwal, P., Wu, Y., Yan, H., Beng, L., Hui, H., El-Kohlu, A., Tang, B., et al.  *Terahertz spin-to-charge conversion in strontium iridate-based magnetic heterostructures.* **Advanced Materials**, 2025.

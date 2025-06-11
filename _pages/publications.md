@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 📝 Publications
+## 📝 Publications
 
 ### **2025**
 - Li, X., Xie, Z., Roy, S., … & <u>Tang, B. (corresponding author)</u>, Ajayan, P., Tang, K. *Amorphous high-entropy phosphide nanosheets with multi-atom catalytic sites for efficient oxygen evolution.* **Advanced Materials**, 2025.

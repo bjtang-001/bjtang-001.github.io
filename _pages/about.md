@@ -28,3 +28,24 @@ My research blends deep materials knowledge with cutting-edge AI techniques. I'm
 - Building **autonomous and explainable AI systems** to speed up materials development with less trial and error
 
 At the heart of it all, I'm working toward a future where discovering and making new materials becomes faster, more intelligent, and more insightful.
+
+---
+
+## ✨ Recent Highlights
+
+- 🏅 **AI2050 Early Career Fellow**, Schmidt Sciences (2024)(https://ai2050.schmidtsciences.org/fellow/bijun-tang/)  
+  *Only Asia-based recipient among 15 global fellows, first from NTU*
+
+- 🎓 **NTU Emerging Scientist Award** (2024)  
+  *Recognized as one of three female awardees at GLOW 2024*
+
+- 📣 **Forbes 30 Under 30 Asia**, Healthcare & Science (2023)(https://www.forbes.com/profile/tang-bijun/)  
+  *For pioneering the use of machine learning in materials discovery*
+
+- 📄 **Recent publications in leading journals**:  
+  - *Advanced Materials* (2025):  
+    [Amorphous high-entropy phosphide nanosheets with multi-atom catalytic sites for efficient oxygen evolution](https://doi.org/10.1002/adma.202410295)  
+  - *Nature Communications* (2024):  
+    [Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots](https://doi.org/10.1038/s41467-024-49172-6) <span style="color:red">[AI for Materials Science]</span>  
+  - *Materials Today Chemistry* (2025):  
+    [Explainable machine learning-powered layer group prediction of 2D materials](https://doi.org/10.1016/j.mtchem.2025.102567) <span style="color:red">[AI for Materials Science]</span>  

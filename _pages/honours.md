@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Honours and Awards"
-permalink: /Honours and Awards/
+permalink: /honours/
 author_profile: true
 ---
 

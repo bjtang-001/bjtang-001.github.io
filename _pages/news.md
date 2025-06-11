@@ -28,7 +28,7 @@ Recognized as one of **three female NTU Emerging Scientists** at **GLOW 2024**, 
 ---
 
 ### 📅 June 2024
-**<span style="color:red">[*Nature Communications*]</span>Publication – Highly Cited**  
+**<span style="color:red">[*Nature Communications*]</span> Publication – Highly Cited**  
 Published a key research paper on **AI for Materials Science** in *Nature Communications* ([DOI: 10.1038/s41467-024-49172-6](https://doi.org/10.1038/s41467-024-49172-6)).  
 Now recognized as a **highly cited paper**, this work contributes significantly to intelligent synthesis optimization.
 

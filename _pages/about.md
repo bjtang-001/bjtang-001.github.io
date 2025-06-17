@@ -10,7 +10,7 @@ redirect_from:
 
 ## 👋 About Me
 
-Hi! I’m **Dr. Bijun Tang**, a Presidential Postdoctoral Fellow at the School of Materials Science and Engineering**, Nanyang Technological University (NTU), Singapore. I also spent time as a visiting scientist at Rice University, USA. I earned both my BEng (First Class Honours) and PhD from NTU in 2017 and 2021.
+Hi! I’m **Dr. Bijun Tang**, a Presidential Postdoctoral Fellow at the School of Materials Science and Engineering, Nanyang Technological University (NTU), Singapore. I also spent time as a visiting scientist at Rice University, USA. I earned both my BEng (First Class Honours) and PhD from NTU in 2017 and 2021.
 
 **My work sits at the exciting intersection of materials science and artificial intelligence (AI)**. I’m passionate about developing AI-driven tools and platforms to make the discovery and synthesis of new materials faster, smarter, and more efficient. While I focus a lot on 2D materials, my research also spans a range of low-dimensional and high-performance materials such as 1D nanoribbons and 0D nanoparticles.
 

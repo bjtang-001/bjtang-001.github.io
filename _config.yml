@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Bijun Tang's Homepage"
 title_separator          : "-"
-name                     : &name "Bijun Tang's Homepage"
+name                     : "Bijun Tang's Homepage"
 description              : &description "AI for Materials Science | 2D Materials | Presidential Postdoctoral Fellow at NTU | Forbes 30 Under 30 Asia"
 url                      : https://bjtang-001.github.io
 baseurl                  : "" 

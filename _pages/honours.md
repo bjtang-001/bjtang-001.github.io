@@ -32,7 +32,3 @@ author_profile: true
 
 ### 2018
 - **Best Poster Award**, 4th International Conference on Two-Dimensional Materials and Technologies (*ICON-2DMAT 2018*)
-
-### 2017
-- **Dean’s List**, Nanyang Technological University  
-  *Top 5% of the cohort*

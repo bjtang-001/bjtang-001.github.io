@@ -14,6 +14,7 @@ author_profile: true
 - Ni, Q., Zhang, M., <u>Tang, B.</u>, et al. *Rapid synthesis of carbon quantum dot-integrated metal–organic framework nanosheets via electron beam irradiation for selective 5-hydroxymethylfurfural electrooxidation.* **Advanced Powder Materials**, 2025.
 - Yang, J., Sun, R., Bao, X., Liu, J., Ng, J., <u>Tang, B.</u>, et al. *Enhancing selectivity of two-dimensional materials-based gas sensors.* **Advanced Functional Materials**, 2025.
 - Fu, H., Li, K., Chen, Q., <u>Tang, B.</u>, et al. *Accelerated design and synthesis of Fenton-like catalysts by active learning with genetic programming.* **Angewandte Chemie**, 2025. <span style="color:red">[AI for Materials Science]</span>
+- Cui, Q., Shou, H., Wu, C.,<u>Tang, B.</u>, et al. *Growth of monolayer WS2 lateral homojunctions via in-situ domain engineering.* **JACS**, 2025
 
 ### **2024**
 - Guo, H., Lu, Y., Lei, Z., … & <u>Tang, B. (corresponding author)</u>, Liu, Z., Wang, L. *Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots.* **Nature Communications**, 2024. <span style="color:red">[AI for Materials Science]</span>

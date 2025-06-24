@@ -32,8 +32,8 @@ At the heart of it all, I'm working toward a future where discovering and making
 ---
 
 ## ✨ Recent Highlights
-- 🎤 **Symposium Co-chair, FAPS 2025 – AI and Polymer Science** (2025)
-  *Co-chairing a major symposium on AI-driven polymer innovation at the 9th Biennial Polymer Congress (FAPS 2025), NTU Singapore*
+- 🎤 **Symposium Co-chair, FAPS 2025 – AI and Polymer Science** (2025)  
+  *Co-chairing a major symposium on AI-driven polymer innovation at the 9th Biennial Polymer Congress (FAPS 2025), NTU Singapore*  
   [Symposium details →](https://www.faps2025.com/)
 
 - 🥇 **AI2050 Early Career Fellow**, Schmidt Sciences (2024)  

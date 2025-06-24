@@ -7,6 +7,12 @@ author_profile: true
 
 ## 📣 News & Updates
 
+### 📅 June 2025
+**Co-chairing FAPS 2025 Symposium on AI and Polymer Science**
+I’m honored to co-chair Symposium 4: AI and Polymer Science at the 9th Biennial Polymer Congress (FAPS 2025), to be held from 1–4 December 2025 at NTU. This symposium highlights emerging research at the intersection of AI and polymer innovation. Looking forward to insightful discussions with fellow researchers and innovators this December at NTU!
+
+---
+
 ### 📅 March 2025
 **Publication in <span style="color:red">*Advanced Materials*</span>**  
 Our paper *"Amorphous High-entropy Phosphide Nanosheets With Multi-atom Catalytic Sites for Efficient Oxygen Evolution"* has been published in the high-profile journal *Advanced Materials* (Impact Factor: 27.4).

@@ -38,7 +38,7 @@ At the heart of it all, I'm working toward a future where discovering and making
 
 - 🎤 **Invited Talk at 18th Pujiang Innovation Forum** (2025)  
   *Gave a keynote titled "Accelerating Materials Synthesis through AI: From Feasibility to Autonomy" at the AI for Materials Science Forum in Shanghai*  
-  [Forum details →](https://www.pujiangforum.cn/en/forum/forum.html/)
+  [Forum details →](https://www.pujiangforum.cn/en/forum/forum/)
 
 - 🎤 **Symposium Co-chair, FAPS 2025 – AI and Polymer Science** (2025)  
   *Co-chairing a major symposium on AI-driven polymer innovation at the 9th Biennial Polymer Congress (FAPS 2025), NTU Singapore*  

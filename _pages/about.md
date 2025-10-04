@@ -33,7 +33,7 @@ At the heart of it all, I'm working toward a future where discovering and making
 
 ## ✨ Recent Highlights
 - 📄 **New Preprint: *AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery*** (2025)  
-  *A hierarchical framework integrating AI, simulations, and experiments for alloy discovery published on arXiv: AutoMAT (arXiv:2507.16005)*
+  *A hierarchical framework integrating AI, simulations, and experiments for alloy discovery published on arXiv: AutoMAT (arXiv:2507.16005)*  
    [Paper details →](https://arxiv.org/abs/2507.16005/)
 
 - 🎤 **Invited Talk at 18th Pujiang Innovation Forum** (2025)  

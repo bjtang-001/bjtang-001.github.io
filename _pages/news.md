@@ -15,7 +15,7 @@ I delivered an invited talk titled ***"Accelerating Materials Synthesis through 
 
 ### 📅 July 2025
 **Preprint Released on <span style="color:red">arXiv</span>**  
-Our latest work *"AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery"* is now available on *arXiv*. This study proposes a generalizable system that integrates AI, simulations, and experiments to autonomously accelerate alloy discovery.
+Our latest work ***"AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery"* is now available on *arXiv***. This study proposes a generalizable system that integrates AI, simulations, and experiments to autonomously accelerate alloy discovery.
 
 ---
 

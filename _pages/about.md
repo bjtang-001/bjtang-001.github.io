@@ -32,8 +32,8 @@ At the heart of it all, I'm working toward a future where discovering and making
 ---
 
 ## ✨ Recent Highlights
-- 📄 **New Preprint: AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery** Published on arXiv: AutoMAT (arXiv:2507.16005)
-  *a hierarchical framework integrating AI, simulations, and experiments for alloy discovery*
+- 📄 **New Preprint: AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery** 
+  *A hierarchical framework integrating AI, simulations, and experiments for alloy discovery published on arXiv: AutoMAT (arXiv:2507.16005)*
 
 - 🎤 **Symposium Co-chair, FAPS 2025 – AI and Polymer Science** (2025)  
   *Co-chairing a major symposium on AI-driven polymer innovation at the 9th Biennial Polymer Congress (FAPS 2025), NTU Singapore*  
@@ -46,10 +46,10 @@ At the heart of it all, I'm working toward a future where discovering and making
   *Only Asia-based recipient among 15 global fellows, first from NTU*  
   [AI2050 Fellowship profile →](https://ai2050.schmidtsciences.org/fellow/bijun-tang/)
 
-- 🎓 **NTU Emerging Scientist Award** (2024)  
+- 🥇 **NTU Emerging Scientist Award** (2024)  
   *Recognized as one of three female awardees at GLOW 2024*
 
-- 🧪 **Forbes 30 Under 30 Asia**, Healthcare & Science (2023)  
+- 🥇 **Forbes 30 Under 30 Asia**, Healthcare & Science (2023)  
   *For pioneering the use of machine learning in materials discovery*  
   [Forbes profile →](https://www.forbes.com/profile/tang-bijun/)
 

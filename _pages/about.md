@@ -14,7 +14,7 @@ Hi! I’m **Dr. Bijun Tang**, a Presidential Postdoctoral Fellow at the School o
 
 **My work sits at the exciting intersection of materials science and artificial intelligence (AI)**. I’m passionate about developing AI-driven tools and platforms to make the discovery and synthesis of new materials faster, smarter, and more efficient. While I focus a lot on 2D materials, my research also spans a range of low-dimensional and high-performance materials such as 0D nanoparticles, 1D nanoribbons, as well as 3D alloys and composites.
 
-I’ve published over **40 peer-reviewed articles** in leading journals like *Nature*, *Nature Materials*, *Nature Electronics*, *Nature Communications*, *Advanced Materials*, and *Materials Today*. My work has been cited more than 2,100 times, and I currently have an H-index of 22. I've led and co-led several major projects in **AI for Materials Science (AI4MS)**, with total research funding exceeding S$6 million.
+I’ve published over **40 peer-reviewed articles** in leading journals like *Nature*, *Nature Materials*, *Nature Electronics*, *Nature Communications*, *Advanced Materials*, and *Materials Today*. My work has been cited more than 2,100 times, and I currently have an H-index of 23. I've led and co-led several major projects in **AI for Materials Science (AI4MS)**, with total research funding exceeding S$6 million.
 
 ---
 

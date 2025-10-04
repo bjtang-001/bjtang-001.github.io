@@ -8,6 +8,9 @@ author_profile: true
 ## 📝 Publications
 
 ### **2025**
+- Yang, P., Zhao, C., <u>Tang, B. (corresponding author)</u>, et al. *AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery.* **arXiv preprint**, 2025. <span style="color:red">[AI for Materials Science]</span>
+- Cui, Q., Shou, H., Wu, C., <u>Tang, B.</u>, et al. *Growth of Monolayer WS2 Lateral Homojunctions via In Situ Domain Engineering.* **Journal of the American Chemical Society**, 2025.
+- Liu, J., Sun, R., Bao, X., Yang, J., Chen, Y., <u>Tang, B.</u>, & Liu, Z. *Machine Learning Driven Atom‐Thin Materials for Fragrance Sensing.* **Small**, 2025. <span style="color:red">[AI for Materials Science]</span>
 - Li, X., Xie, Z., Roy, S., … & <u>Tang, B. (corresponding author)</u>, Ajayan, P., Tang, K. *Amorphous high-entropy phosphide nanosheets with multi-atom catalytic sites for efficient oxygen evolution.* **Advanced Materials**, 2025.
 - Sun, R., <u>Tang, B.</u>, & Liu, Z. *Explainable machine learning-powered layer group prediction of 2D materials with automated descriptor selection.* **Materials Today Chemistry**, 2025. <span style="color:red">[AI for Materials Science]</span>
 - Abdelaziem, A., Li, Z., Omar, G., Huang, L., Agarwal, P., Wu, Y., Yan, H., Beng, L., Hui, H., El-Kohlu, A., <u>Tang, B.</u>, et al.  *Terahertz spin-to-charge conversion in strontium iridate-based magnetic heterostructures.* **Advanced Materials**, 2025.

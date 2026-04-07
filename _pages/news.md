@@ -7,6 +7,30 @@ author_profile: true
 
 ## 📣 News & Updates
 
+### 📅 December 2026
+**Invited Talk at <span style="color:red">2026 MRS Fall Meeting & Exhibit</span>**  
+I will be giving an invited presentation at the **2026 MRS Fall Meeting & Exhibit** in Boston, as part of the symposium **"AI-Driven Workflows and Autonomous Platforms for Functional Material Design and Catalysis"**.
+
+---
+
+### 📅 March 2026
+**New Work Presented at <span style="color:red">ICLR 2026 AI4Mat Workshop</span>**  
+Our work **"MatSeek: An Automated Knowledge-Driven Framework for Materials Research"** has been presented at the **AI4Mat Workshop at ICLR 2026**. This work presents a generalist ML framework integrating a curated alloy database, deep neural network predictors, constraint-aware optimization, and an iterative AI–experiment feedback loop for accelerated alloy development.
+
+---
+
+### 📅 January 2026
+**Symposium Co-chair at <span style="color:red">AI for Materials Discovery Symposium</span>**  
+I am co-chairing a flagship symposium on **AI for Materials Discovery** at NTU Singapore, bringing together researchers working at the frontier of AI-driven materials innovation.
+
+---
+
+### 📅 November 2025
+**Preprint Released on <span style="color:red">arXiv</span>**  
+Our latest work **"MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys"** is now available on **arXiv**. This work presents a generalist ML framework integrating a curated alloy database, deep neural network predictors, constraint-aware optimization, and an iterative AI–experiment feedback loop for accelerated alloy development.
+
+---
+
 ### 📅 September 2025
 **Invited Talk at <span style="color:red">18th Pujiang Innovation Forum</span>**  
 I delivered an invited talk titled ***"Accelerating Materials Synthesis through AI: From Feasibility to Autonomy"*** at the **AI for Materials Science Forum**, part of the 18th Pujiang Innovation Forum in Shanghai. It was a great opportunity to share our vision for autonomous materials discovery with leading researchers and policymakers.
@@ -15,7 +39,7 @@ I delivered an invited talk titled ***"Accelerating Materials Synthesis through 
 
 ### 📅 July 2025
 **Preprint Released on <span style="color:red">arXiv</span>**  
-Our latest work ***"AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery"* is now available on *arXiv***. This study proposes a generalizable system that integrates AI, simulations, and experiments to autonomously accelerate alloy discovery.
+Our latest work **"AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery"** is now available on **arXiv**. This study proposes a generalizable system that integrates AI, simulations, and experiments to autonomously accelerate alloy discovery.
 
 ---
 

@@ -49,7 +49,7 @@ At the heart of it all, I'm working toward a future where discovering and making
   [Forum details →](https://www.pujiangforum.cn/en/forum/forum/)
 
 - 🥇 **AI2050 Early Career Fellow**, Schmidt Sciences (2024)  
-  *Only Asia-based recipient among 15 global fellows, first from NTU*  
+  *Only Asia-based recipient among 15 global fellows, first from Singapore*  
   [AI2050 Fellowship profile →](https://ai2050.schmidtsciences.org/fellow/bijun-tang/)
 
 - 🥇 **NTU Emerging Scientist Award** (2024)  

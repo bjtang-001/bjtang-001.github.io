@@ -15,7 +15,7 @@ I will be giving an invited presentation at the **2026 MRS Fall Meeting & Exhibi
 
 ### 📅 March 2026
 **New Work Presented at <span style="color:red">ICLR 2026 AI4Mat Workshop</span>**  
-Our work **"MatSeek: An Automated Knowledge-Driven Framework for Materials Research"** has been presented at the **AI4Mat Workshop at ICLR 2026**. This work introduces an LLM-based framework that integrates literature-driven knowledge extraction with structured materials data to enable interpretable and efficient inverse alloy design.
+Our work ***"MatSeek: An Automated Knowledge-Driven Framework for Materials Research"*** has been presented at the **AI4Mat Workshop at ICLR 2026**. This work introduces an LLM-based framework that integrates literature-driven knowledge extraction with structured materials data to enable interpretable and efficient inverse alloy design.
 
 ---
 
@@ -26,8 +26,8 @@ I am co-chairing a flagship symposium on **AI for Materials Discovery** at NTU S
 ---
 
 ### 📅 November 2025
-**Preprint Released on <span style="color:red">arXiv</span>**  
-Our latest work **"MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys"** is now available on **arXiv**. This work presents a generalist ML framework integrating a curated alloy database, deep neural network predictors, constraint-aware optimization, and an iterative AI–experiment feedback loop for accelerated alloy development.
+**Preprint Released on <span style="color:red">*arXiv*</span>**  
+Our latest work ***"MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys"*** is now available on **arXiv**. This work presents a generalist ML framework integrating a curated alloy database, deep neural network predictors, constraint-aware optimization, and an iterative AI–experiment feedback loop for accelerated alloy development.
 
 ---
 
@@ -38,13 +38,13 @@ I delivered an invited talk titled ***"Accelerating Materials Synthesis through 
 ---
 
 ### 📅 July 2025
-**Preprint Released on <span style="color:red">arXiv</span>**  
-Our latest work **"AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery"** is now available on **arXiv**. This study proposes a generalizable system that integrates AI, simulations, and experiments to autonomously accelerate alloy discovery.
+**Preprint Released on <span style="color:red">*arXiv*</span>**  
+Our latest work ***"AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery"*** is now available on **arXiv**. This study proposes a generalizable system that integrates AI, simulations, and experiments to autonomously accelerate alloy discovery.
 
 ---
 
 ### 📅 June 2025
-**Co-chairing <span style="color:red">FAPS 2025*</span> Symposium on AI and Polymer Science**  
+**Co-chairing <span style="color:red">FAPS 2025</span> Symposium on AI and Polymer Science**  
 I’m honored to co-chair **Symposium 4: AI and Polymer Science** at the 9th Biennial Polymer Congress (FAPS 2025), to be held from 1–4 December 2025 at NTU. This symposium highlights emerging research at the intersection of AI and polymer innovation. Looking forward to insightful discussions with fellow researchers and innovators this December at NTU!
 
 ---

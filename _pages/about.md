@@ -12,9 +12,9 @@ redirect_from:
 
 Hi! I’m **Dr. Bijun Tang**, a Presidential Postdoctoral Fellow at the School of Materials Science and Engineering, Nanyang Technological University (NTU), Singapore. I also spent time as a visiting scientist at Rice University, USA. I earned both my BEng (First Class Honours) and PhD from NTU in 2017 and 2021.
 
-**My work sits at the exciting intersection of materials science and artificial intelligence (AI)**. I’m passionate about developing AI-driven tools and platforms to make the discovery and synthesis of new materials faster, smarter, and more efficient. While I focus a lot on 2D materials, my research also spans a range of low-dimensional and high-performance materials such as 0D nanoparticles, 1D nanoribbons, as well as 3D alloys and composites.
+**My work sits at the exciting intersection of materials science and artificial intelligence (AI)**. I’m passionate about developing AI-driven tools and platforms to make the discovery and synthesis of new materials faster, smarter, and more efficient. While I focus a lot on 2D materials, my research also spans a range of low-dimensional and high-performance materials such as 0D nanoparticles, 1D nanoribbons, as well as 3D alloys and multi-functional composites.
 
-I’ve published over **40 peer-reviewed articles** in leading journals like *Nature*, *Nature Materials*, *Nature Electronics*, *Nature Communications*, *Advanced Materials*, and *Materials Today*. My work has been cited more than 2,100 times, and I currently have an H-index of 23. I've led and co-led several major projects in **AI for Materials Science (AI4MS)**, with total research funding exceeding S$6 million.
+I’ve published over **40 peer-reviewed articles** in leading journals like *Nature*, *Nature Materials*, *Nature Electronics*, *Nature Communications*, *Advanced Materials*, and *Materials Today*. My work has been cited more than 2,500 times, and I currently have an H-index of 25. I've led and co-led several major projects in **AI for Materials Science (AI4MS)**, with total research funding exceeding S$7 million.
 
 ---
 
@@ -32,17 +32,21 @@ At the heart of it all, I'm working toward a future where discovering and making
 ---
 
 ## ✨ Recent Highlights
-- 📄 **New Preprint: *AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery*** (2025)  
-  *A hierarchical framework integrating AI, simulations, and experiments for alloy discovery published on arXiv: AutoMAT (arXiv:2507.16005)*  
-   [Paper details →](https://arxiv.org/abs/2507.16005/)
+- 🎤 **Invited Talk at 2026 MRS Fall Meeting & Exhibit** (2026)  
+  *I'll be giving a presentation for the symposium: “AI-Driven Workflows and Autonomous Platforms for Functional Material Design and Catalysis” in Boston*  
+  [Conference details →](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting)
+
+- 🎤 **Symposium Co-chair, AI for Materials Discovery Symposium** (2026)  
+  *Co-chairing a major symposium on AI for Materials Discovery, NTU Singapore*  
+  [Symposium details →](https://www.ntu.edu.sg/mse/news-events/events/detail/2026/01/26/flagship/ai-for-materials-discovery-symposium)
+
+- 📄 **New Preprint: *MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys*** (2025)  
+  *A generalist machine learning framework, integrating a curated alloy database, deep neural network-based property predictors, a constraint-aware optimization engine, and an iterative AI-experiment feedback loop, for alloys development published on arXiv: MATAI (arXiv:2511.10108)*  
+   [Paper details →](https://arxiv.org/abs/2511.10108/)
 
 - 🎤 **Invited Talk at 18th Pujiang Innovation Forum** (2025)  
   *Gave a keynote titled "Accelerating Materials Synthesis through AI: From Feasibility to Autonomy" at the AI for Materials Science Forum in Shanghai*  
   [Forum details →](https://www.pujiangforum.cn/en/forum/forum/)
-
-- 🎤 **Symposium Co-chair, FAPS 2025 – AI and Polymer Science** (2025)  
-  *Co-chairing a major symposium on AI-driven polymer innovation at the 9th Biennial Polymer Congress (FAPS 2025), NTU Singapore*  
-  [Symposium details →](https://www.faps2025.com/)
 
 - 🥇 **AI2050 Early Career Fellow**, Schmidt Sciences (2024)  
   *Only Asia-based recipient among 15 global fellows, first from NTU*  

@@ -36,6 +36,10 @@ At the heart of it all, I'm working toward a future where discovering and making
   *I'll be giving a presentation for the symposium: “AI-Driven Workflows and Autonomous Platforms for Functional Material Design and Catalysis” in Boston*  
   [Conference details →](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting)
 
+- 📄 **New Publication: *MatSeek: An Automated Knowledge-Driven Framework for Materials Research*** (2026)  
+  *An LLM-based framework that integrates literature-driven knowledge extraction with structured materials data to enable interpretable and efficient inverse alloy design, published at the AI4Mat Workshop at ICLR 2026*  
+   [Paper details →](https://openreview.net/forum?id=Tc2vIWAfy4)
+
 - 🎤 **Symposium Co-chair, AI for Materials Discovery Symposium** (2026)  
   *Co-chairing a major symposium on AI for Materials Discovery, NTU Singapore*  
   [Symposium details →](https://www.ntu.edu.sg/mse/news-events/events/detail/2026/01/26/flagship/ai-for-materials-discovery-symposium)

@@ -15,7 +15,7 @@ I will be giving an invited presentation at the **2026 MRS Fall Meeting & Exhibi
 
 ### 📅 March 2026
 **New Work Presented at <span style="color:red">ICLR 2026 AI4Mat Workshop</span>**  
-Our work **"MatSeek: An Automated Knowledge-Driven Framework for Materials Research"** has been presented at the **AI4Mat Workshop at ICLR 2026**. This work presents a generalist ML framework integrating a curated alloy database, deep neural network predictors, constraint-aware optimization, and an iterative AI–experiment feedback loop for accelerated alloy development.
+Our work **"MatSeek: An Automated Knowledge-Driven Framework for Materials Research"** has been presented at the **AI4Mat Workshop at ICLR 2026**. This work introduces an LLM-based framework that integrates literature-driven knowledge extraction with structured materials data to enable interpretable and efficient inverse alloy design.
 
 ---
 

@@ -7,6 +7,10 @@ author_profile: true
 
 ## 📝 Publications
 
+### **2026**
+- Huang, J., Lu, Y., Deng, Y., ... & <u>Tang, B. (corresponding author)</u>, Wang, X., Liu, Z, An, Bo. *MatSeek: An Automated Knowledge-Driven Framework for Materials Research.* **AI4Mat-ICLR**, 2026. <span style="color:red">[AI for Materials Science]</span>
+- Luo, S., Duan, R., <u>Tang, B.</u>, et al. *2D High‐Entropy Phosphorus Chalcogenides for Efficient Solar‐Driven CO2 Reduction to Ethylene.* **Advanced Materials**, 2026. 
+
 ### **2025**
 - Deng, Y., Zhao, C., Li, Y., <u>Tang, B. (corresponding author)</u>, et al. *MATAI: A generalist machine learning framework for property prediction and inverse design of advanced alloys.* **arXiv preprint**, 2025. <span style="color:red">[AI for Materials Science]</span>
 - Yang, P., Zhao, C., <u>Tang, B. (corresponding author)</u>, et al. *AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery.* **arXiv preprint**, 2025. <span style="color:red">[AI for Materials Science]</span>

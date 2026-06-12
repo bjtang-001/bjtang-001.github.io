@@ -61,7 +61,7 @@ My long-term goal is to develop autonomous scientific systems capable of discove
   [Paper details →](https://openreview.net/forum?id=XW3R3PLtx8#discussion)
  
 - 📄 **New Preprint: *AutoDFT: Closed-Loop LLM Agents for Autonomous Density Functional Theory Calculations*** (2026)  
-  *An autonomous LLM-agent framework for closed-loop density functional theory (DFT) calculations and materials simulations published on arXiv: MATAI (arXiv:2605.26179)*  
+  *An autonomous LLM-agent framework for closed-loop density functional theory (DFT) calculations and materials simulations published on arXiv (arXiv:2605.26179)*  
    [Paper details →](https://arxiv.org/abs/2605.26179/)
 
 - 📄 **New Preprint: *A Self-Evolving Agent for Explainable Diagnosis of DFT–Experiment Band-Gap Mismatch*** (2026)  

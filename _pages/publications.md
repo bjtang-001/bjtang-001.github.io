@@ -8,6 +8,9 @@ author_profile: true
 ## 📝 Publications
 
 ### **2026**
+- Li, Y., <u>Tang, B. (corresponding author)</u> A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch. **arXiv preprint**, 2026. <span style="color:red">[AI for Materials Science]</span>
+- Yang, P., Zhang, Z., Li, Y., …& <u>Tang, B. (corresponding author)</u>, Liu, Z., An, B. AutoDFT: Closed-Loop LLM Agents for Autonomous Density Functional Theory Calculations. **arXiv preprint**, 2026. <span style="color:red">[AI for Materials Science]</span>
+- Li, Y., Deng, Y., Zhao, C., …& <u>Tang, B. (corresponding author)</u>, Wang, X., Liu, Z., An, B. MATAI: A Unified Interactive Platform for AI-Driven Alloy Discovery. **ICML 2026 Workshop AI4Science**, 2026 <span style="color:red">[AI for Materials Science]</span>
 - Huang, J., Lu, Y., Deng, Y., ... & <u>Tang, B. (corresponding author)</u>, Wang, X., Liu, Z, An, Bo. *MatSeek: An Automated Knowledge-Driven Framework for Materials Research.* **AI4Mat-ICLR**, 2026. <span style="color:red">[AI for Materials Science]</span>
 - Luo, S., Duan, R., <u>Tang, B.</u>, et al. *2D High‐Entropy Phosphorus Chalcogenides for Efficient Solar‐Driven CO2 Reduction to Ethylene.* **Advanced Materials**, 2026. 
 

@@ -13,6 +13,12 @@ I will be giving an invited presentation at the **2026 MRS Fall Meeting & Exhibi
 
 ---
 
+### 📅 July 2026
+**Oral Presentation at <span style="color:red">ICML 2026 AI4Science Workshop</span>**  
+Our paper ***"MATAI: A Unified Interactive Platform for AI-Driven Alloy Discovery"*** has been accepted as an **Oral Presentation** at the **ICML 2026 AI4Science Workshop** in Seoul, South Korea. The work presents a unified platform that combines materials databases, machine learning, inverse design, optimization, and AI-assisted decision-making to accelerate alloy discovery. We are excited to share our latest advances in AI for Materials Science with the broader AI and machine learning community at ICML.
+
+---
+
 ### 📅 March 2026
 **New Work Presented at <span style="color:red">ICLR 2026 AI4Mat Workshop</span>**  
 Our work ***"MatSeek: An Automated Knowledge-Driven Framework for Materials Research"*** has been presented at the **AI4Mat Workshop at ICLR 2026**. This work introduces an LLM-based framework that integrates literature-driven knowledge extraction with structured materials data to enable interpretable and efficient inverse alloy design.

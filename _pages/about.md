@@ -10,24 +10,44 @@ redirect_from:
 
 ## 👋 About Me
 
-Hi! I’m **Dr. Bijun Tang**, a Presidential Postdoctoral Fellow at the School of Materials Science and Engineering, Nanyang Technological University (NTU), Singapore. I also spent time as a visiting scientist at Rice University, USA. I earned both my BEng (First Class Honours) and PhD from NTU in 2017 and 2021.
+Hi! I’m **Dr. Bijun Tang**, a Presidential Postdoctoral Fellow at the School of Materials Science and Engineering, Nanyang Technological University (NTU), Singapore, and a former Visiting Scientist at Rice University, USA. 
 
-**My work sits at the exciting intersection of materials science and artificial intelligence (AI)**. I’m passionate about developing AI-driven tools and platforms to make the discovery and synthesis of new materials faster, smarter, and more efficient. While I focus a lot on 2D materials, my research also spans a range of fascinating and high-performance materials such as 0D nanoparticles, 1D nanoribbons, as well as 3D alloys and multi-functional composites.
+**My work sits at the exciting intersection of materials science and artificial intelligence (AI)**. I’m passionate about developing AI-driven methodologies and autonomous research platforms that accelerate the entire materials innovation cycle—from materials design and simulation to synthesis optimization and experimental validation.
 
-I’ve published over **40 peer-reviewed articles** in leading journals like *Nature*, *Nature Materials*, *Nature Electronics*, *Nature Communications*, *Advanced Materials*, and *Materials Today*. My work has been cited more than 2,700 times, and I currently have an H-index of 75. I've led and co-led several major projects in **AI for Materials Science (AI4MS)**, with total research funding exceeding S$7 million.
+My team works on building end-to-end AI systems for materials research. We combine machine learning, large language models (LLMs), scientific databases, knowledge extraction, inverse design algorithms, and autonomous experimentation to create intelligent platforms capable of discovering and developing advanced materials with minimal human intervention.
+
+While our work spans a broad range of materials systems—including 0D nanoparticles, 1D nanowires, 2D materials, 3D alloys, and multifunctional composites—the central theme is the development of AI technologies that transform how materials are designed, synthesized, and understood.
+
+I’ve published over **40 peer-reviewed articles** in leading journals like *Nature*, *Nature Materials*, *Nature Electronics*, *Nature Communications*, *Advanced Materials*, and *Materials Today*. My work has received more than 2,700 citations (H-index: 25), and I have led or co-led multiple **AI for Materials Science (AI4MS) initiatives** with total research funding exceeding S$7 million.
 
 ---
 
 ## 🔬 Research Interests
 
-My research blends deep materials knowledge with cutting-edge AI techniques. I'm especially interested in:
+My research focuses on developing next-generation AI technologies for scientific discovery and materials innovation. Current interests include:
 
-- Creating and studying **low-dimensional materials** (like 2D sheets, 1D ribbons, and 0D dots) for various applications such as electronics and catalysis  
-- Using **AI to guide the design and synthesis** of new materials, from **0D quantum dots** to **2D materials** and now to **3D alloys** and **multi-functional composites**   
-- Applying **data-driven methods** for phase control, property optimization, and multi-objective material design  
-- Building **autonomous and explainable AI systems** to speed up materials development with less trial and error
+🤖 **AI for Materials Discovery**
+- Machine learning and foundation models for materials property prediction
+- Inverse design and multi-objective optimization of advanced materials
+- Uncertainty-aware and physics-informed AI models
+ 
+📚 **Scientific Knowledge Intelligence**
+- Automated extraction of scientific knowledge from literature
+- Materials databases, knowledge graphs, and scientific reasoning systems
+- Large language models (LLMs) for scientific discovery and hypothesis generation
 
-At the heart of it all, I'm working toward a future where discovering and making new materials becomes faster, more intelligent, and more insightful.
+⚙️ **Autonomous Materials Research**
+- AI agents for materials design and synthesis planning
+- Closed-loop AI–simulation–experiment frameworks
+- Autonomous laboratories for accelerated materials development
+
+🧪 **Advanced Materials Systems**
+- Two-dimensional materials and heterostructures
+- Quantum dots and nanomaterials
+- High-entropy alloys and multifunctional composites
+- Catalysts for sustainable energy applications
+
+My long-term goal is to develop autonomous scientific systems capable of discovering, designing, and realizing novel materials at unprecedented speed and scale.
 
 ---
 

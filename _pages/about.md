@@ -56,6 +56,11 @@ My long-term goal is to develop autonomous scientific systems capable of discove
   *I'll be giving a presentation for the symposium: “AI-Driven Workflows and Autonomous Platforms for Functional Material Design and Catalysis” in Boston*  
   [Conference details →](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting)
 
+- 🎤 **ICML 2026 AI4Science Oral Presentation** (2026)
+  *Our paper "MATAI: A Unified Interactive Platform for AI-Driven Alloy Discovery" was accepted as an Oral presentation at the ICML 2026 AI4Science Workshop.*
+  [Paper details →](https://openreview.net/forum?id=XW3R3PLtx8#discussion)
+ 
+
 - 📄 **New Publication: *MatSeek: An Automated Knowledge-Driven Framework for Materials Research*** (2026)  
   *An LLM-based framework that integrates literature-driven knowledge extraction with structured materials data to enable interpretable and efficient inverse alloy design, published at the AI4Mat Workshop at ICLR 2026*  
    [Paper details →](https://openreview.net/forum?id=Tc2vIWAfy4)
@@ -82,11 +87,3 @@ My long-term goal is to develop autonomous scientific systems capable of discove
 - 🥇 **Forbes 30 Under 30 Asia**, Healthcare & Science (2023)  
   *For pioneering the use of machine learning in materials discovery*  
   [Forbes profile →](https://www.forbes.com/profile/tang-bijun/)
-
-- 📄 **Recent publications in leading journals**:  
-  - *Advanced Materials* (2025):  
-    [Amorphous high-entropy phosphide nanosheets with multi-atom catalytic sites for efficient oxygen evolution](https://doi.org/10.1002/adma.202410295)  
-  - *Nature Communications* (2024):  
-    [Machine learning-guided realization of full-color high-quantum-yield carbon quantum dots](https://doi.org/10.1038/s41467-024-49172-6) <span style="color:red">[AI for Materials Science]</span>  
-  - *Materials Today Chemistry* (2025):  
-    [Explainable machine learning-powered layer group prediction of 2D materials](https://doi.org/10.1016/j.mtchem.2025.102567) <span style="color:red">[AI for Materials Science]</span>  

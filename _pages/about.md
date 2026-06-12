@@ -60,6 +60,13 @@ My long-term goal is to develop autonomous scientific systems capable of discove
   *Our paper "MATAI: A Unified Interactive Platform for AI-Driven Alloy Discovery" was accepted as an Oral presentation at the ICML 2026 AI4Science Workshop.*
   [Paper details →](https://openreview.net/forum?id=XW3R3PLtx8#discussion)
  
+- 📄 **New Preprint: *AutoDFT: Closed-Loop LLM Agents for Autonomous Density Functional Theory Calculations*** (2026)  
+  *An autonomous LLM-agent framework for closed-loop density functional theory (DFT) calculations and materials simulations published on arXiv: MATAI (arXiv:2605.26179)*  
+   [Paper details →](https://arxiv.org/abs/2605.26179/)
+
+- 📄 **New Preprint: *A Self-Evolving Agent for Explainable Diagnosis of DFT–Experiment Band-Gap Mismatch*** (2026)  
+  *A self-evolving AI agent for diagnosing and explaining DFT–experiment band-gap mismatches in materials research published on arXiv (arXiv.2604.26703)*  
+   [Paper details →](https://arxiv.org/abs/2604.26703/)
 
 - 📄 **New Publication: *MatSeek: An Automated Knowledge-Driven Framework for Materials Research*** (2026)  
   *An LLM-based framework that integrates literature-driven knowledge extraction with structured materials data to enable interpretable and efficient inverse alloy design, published at the AI4Mat Workshop at ICLR 2026*  
@@ -80,9 +87,6 @@ My long-term goal is to develop autonomous scientific systems capable of discove
 - 🥇 **AI2050 Early Career Fellow**, Schmidt Sciences (2024)  
   *Only Asia-based recipient among 15 global fellows, first from Singapore*  
   [AI2050 Fellowship profile →](https://ai2050.schmidtsciences.org/fellow/bijun-tang/)
-
-- 🥇 **NTU Emerging Scientist Award** (2024)  
-  *Recognized as one of three female awardees at GLOW 2024*
 
 - 🥇 **Forbes 30 Under 30 Asia**, Healthcare & Science (2023)  
   *For pioneering the use of machine learning in materials discovery*  

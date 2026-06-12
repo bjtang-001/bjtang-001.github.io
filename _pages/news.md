@@ -19,6 +19,18 @@ Our paper ***"MATAI: A Unified Interactive Platform for AI-Driven Alloy Discover
 
 ---
 
+### 📅 May 2026
+**Preprint Released on <span style="color:red">*arXiv*</span>**  
+Our latest work ***"AutoDFT: Closed-Loop LLM Agents for Autonomous Density Functional Theory Calculations"*** is now available on **arXiv**. AutoDFT is a multi-agent framework that autonomously performs density functional theory (DFT) calculations through planning, execution, monitoring, and error recovery. By integrating large language models with computational materials workflows, AutoDFT enables closed-loop and autonomous first-principles simulations, reducing human intervention and improving research efficiency.
+
+---
+
+### 📅 Apr 2026
+**Preprint Released on <span style="color:red">*arXiv*</span>**  
+Our latest work ***"A Self-Evolving Agent for Explainable Diagnosis of DFT–Experiment Band-Gap Mismatch"*** is now available on **arXiv**. This work introduces an AI agent capable of automatically identifying, diagnosing, and explaining discrepancies between density functional theory (DFT) predictions and experimental measurements. By combining scientific reasoning, literature knowledge, and iterative self-improvement, the framework helps researchers better understand the origins of simulation–experiment inconsistencies and accelerate materials discovery.
+
+---
+
 ### 📅 March 2026
 **New Work Presented at <span style="color:red">ICLR 2026 AI4Mat Workshop</span>**  
 Our work ***"MatSeek: An Automated Knowledge-Driven Framework for Materials Research"*** has been presented at the **AI4Mat Workshop at ICLR 2026**. This work introduces an LLM-based framework that integrates literature-driven knowledge extraction with structured materials data to enable interpretable and efficient inverse alloy design.

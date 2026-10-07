@@ -52,9 +52,6 @@ My long-term goal is to develop autonomous scientific systems capable of discove
 ---
 
 ## ✨ Recent Highlights
-- 🎤 **Invited Talk at 2026 MRS Fall Meeting & Exhibit** (2026)  
-  *I'll be giving a presentation for the symposium: “AI-Driven Workflows and Autonomous Platforms for Functional Material Design and Catalysis” in Boston*  
-  [Conference details →](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting)
 
 - 🎤 **ICML 2026 AI4Science Oral Presentation** (2026)
   *Our paper "MATAI: A Unified Interactive Platform for AI-Driven Alloy Discovery" was accepted as an Oral presentation at the ICML 2026 AI4Science Workshop.*

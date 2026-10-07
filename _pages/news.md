@@ -7,12 +7,6 @@ author_profile: true
 
 ## 📣 News & Updates
 
-### 📅 December 2026
-**Invited Talk at <span style="color:red">2026 MRS Fall Meeting & Exhibit</span>**  
-I will be giving an invited presentation at the **2026 MRS Fall Meeting & Exhibit** in Boston, as part of the symposium **"AI-Driven Workflows and Autonomous Platforms for Functional Material Design and Catalysis"**.
-
----
-
 ### 📅 July 2026
 **Oral Presentation at <span style="color:red">ICML 2026 AI4Science Workshop</span>**  
 Our paper ***"MATAI: A Unified Interactive Platform for AI-Driven Alloy Discovery"*** has been accepted as an **Oral Presentation** at the **ICML 2026 AI4Science Workshop** in Seoul, South Korea. The work presents a unified platform that combines materials databases, machine learning, inverse design, optimization, and AI-assisted decision-making to accelerate alloy discovery. We are excited to share our latest advances in AI for Materials Science with the broader AI and machine learning community at ICML.
